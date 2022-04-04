@@ -1,0 +1,20 @@
+/* main div card style */
+ .main-div { 
+  background-color: aquamarine;
+  width: 150vh;
+  height: 60vh;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  border-radius: 20px;
+}
+
+.url-div {
+  margin-left: 10px;
+  background-color: #f1f1f1;
+  width: 140vh;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  border-radius: 10px;
+}
